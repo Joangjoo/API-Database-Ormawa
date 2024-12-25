@@ -18,8 +18,8 @@
       "jabatan": "Wakil Gubernur",
       "ttl": "Majalengka, 21-01-2004",
       "departemen" : "PH",
-      "foto": "../public/assets/BEM/Gub.png",
-      "prodi" : "Teknik Industri",
+      "foto": "../public/assets/BEM/kiki.png",
+      "prodi" : "Teknik Kimia",
       "angkatan" : "Angkatan 2021",
       "pesankesan" : "Tidak Perlu kata kata yang penting bukti nyata"
     },
@@ -222,7 +222,7 @@
       "jabatan": "Kepala Departemen",
       "ttl": "Majalengka, 21-01-2004",
       "departemen" : "Jalsos",
-      "foto": "../public/assets/BEM/yudi.png",
+      "foto": "../public/assets/BEM/sukma.png",
       "prodi" : "Teknik Kimia",
       "angkatan" : "Angkatan 2021",
       "pesankesan" : "Tidak Perlu kata kata yang penting bukti nyata"
@@ -582,7 +582,7 @@
       "jabatan": "Kepala Departemen",
       "ttl": "Majalengka, 21-01-2004",
       "departemen" : "AKASTRAT",
-      "foto": "../public/assets/BEM/bengak.png",
+      "foto": "../public/assets/BEM/akmal.png",
       "prodi" : "Teknik Kimia",
       "angkatan" : "Angkatan 2021",
       "pesankesan" : "Tidak Perlu kata kata yang penting bukti nyata"
