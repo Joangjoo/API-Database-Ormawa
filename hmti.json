@@ -1,0 +1,525 @@
+[
+    {
+      "id": 1,
+      "nama": "Iqbal Alanosha",
+      "nim": "2200019232",
+      "jabatan": "Ketua",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 2,
+      "nama": "Dwi Ardianto",
+      "nim": "2200019009",
+      "jabatan": "Wakil Ketua",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 3,
+      "nama": "Sekar Sari Pangarum Bumi",
+      "nim": "2200019098",
+      "jabatan": "Sekretaris 1",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 4,
+      "nama": "Nurwita Putri Agustiani",
+      "nim": "2300019013",
+      "jabatan": "Sekretaris 2",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 5,
+      "nama": "Rizky Pratama Putri S.",
+      "nim": "2200019016",
+      "jabatan": "Bendahara 1",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 6,
+      "nama": "Eddies Naura Shofa",
+      "nim": "2300019038",
+      "jabatan": "Bendahara 2",
+      "departemen": "PENGURUS HARIAN (PH)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 7,
+      "nama": "Yudha Himawan",
+      "nim": "2200019028",
+      "jabatan": "Ketua",
+      "departemen": "KAJIAN STRATEGIS (KASRAT)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 8,
+      "nama": "Diego Faren Gey",
+      "nim": "2200019015",
+      "jabatan": "Staff",
+      "departemen": "KAJIAN STRATEGIS (KASRAT)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 9,
+      "nama": "Nazwa Belinda S",
+      "nim": "2200019187",
+      "jabatan": "Staff",
+      "departemen": "KAJIAN STRATEGIS (KASRAT)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 10,
+      "nama": "Robi Ansori",
+      "nim": "2300019069",
+      "jabatan": "Staff",
+      "departemen": "KAJIAN STRATEGIS (KASRAT)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 11,
+      "nama": "Sailah Aulivia",
+      "nim": "2300019125",
+      "jabatan": "Staff",
+      "departemen": "KAJIAN STRATEGIS (KASRAT)",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 12,
+      "nama": "Havid Rifa’i",
+      "nim": "2200019083",
+      "jabatan": "Ketua",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 13,
+      "nama": "Muh.Taufiq Dzakwan",
+      "nim": "2200019094",
+      "jabatan": "Staff",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 14,
+      "nama": "Ranti Amalia",
+      "nim": "2200019195",
+      "jabatan": "Staff",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2022
+    },
+    {
+      "id": 15,
+      "nama": "Rafalia Dhiyah",
+      "nim": "2300019025",
+      "jabatan": "Staff",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 16,
+      "nama": "Catur Ichwannur Ichsan",
+      "nim": "2300019053",
+      "jabatan": "Staff",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+      "id": 17,
+      "nama": "Medhi Wahyu Nurtriyanto",
+      "nim": "2300019042",
+      "jabatan": "Staff",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Industri",
+      "angkatan": 2023
+    },
+    {
+        "id": 18,
+        "nama": "Hafidz Wistyo Al Abid",
+        "nim": "2200019087",
+        "jabatan": "Ketua",
+        "departemen": "JARINGAN LEMBAGA DAN SOSIAL (JALSOS)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 19,
+        "nama": "Nur Hikmah",
+        "nim": "2200019072",
+        "jabatan": "Staff",
+        "departemen": "JARINGAN LEMBAGA DAN SOSIAL (JALSOS)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 20,
+        "nama": "Rinanda Oktavia",
+        "nim": "2300019081",
+        "jabatan": "Staff",
+        "departemen": "JARINGAN LEMBAGA DAN SOSIAL (JALSOS)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 21,
+        "nama": "Fathir",
+        "nim": "2300019026",
+        "jabatan": "Staff",
+        "departemen": "JARINGAN LEMBAGA DAN SOSIAL (JALSOS)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 22,
+        "nama": "Firza Lazera Kautsar",
+        "nim": "2338019121",
+        "jabatan": "Staff",
+        "departemen": "JARINGAN LEMBAGA DAN SOSIAL (JALSOS)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 23,
+        "nama": "Agil Rifky",
+        "nim": "2200019283",
+        "jabatan": "Ketua",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 24,
+        "nama": "Adji Amirul Fatah Wibowo",
+        "nim": "2200019013",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 25,
+        "nama": "Dimas Rizqi Sandi Yudha",
+        "nim": "2200019058",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 26,
+        "nama": "Aufha Rafhika",
+        "nim": "2200019057",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 27,
+        "nama": "Syifa Safrila",
+        "nim": "2300019046",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 28,
+        "nama": "Shulhan Akmal",
+        "nim": "2300019111",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 29,
+        "nama": "Irham Arifin",
+        "nim": "2300019040",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 30,
+        "nama": "Muhammad Husni Tamrin Akbar",
+        "nim": "2300019101",
+        "jabatan": "Staff",
+        "departemen": "MINAT DAN BAKAT (MIKAT)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 31,
+        "nama": "Muhammad Sidik S.",
+        "nim": "2200019093",
+        "jabatan": "Ketua",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 32,
+        "nama": "Salsabiela Nurul Alisyah",
+        "nim": "2200019064",
+        "jabatan": "Staff",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 33,
+        "nama": "Noval Fakhri Ramadhan",
+        "nim": "2200019079",
+        "jabatan": "Staff",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 34,
+        "nama": "Hardika Abdusakha",
+        "nim": "2300019133",
+        "jabatan": "Staff",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 35,
+        "nama": "Ardita Putri Rahmadhini",
+        "nim": "2300019045",
+        "jabatan": "Staff",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 36,
+        "nama": "Cahyo Ramadhan",
+        "nim": "2300019120",
+        "jabatan": "Staff",
+        "departemen": "PERS DAN INFORMASI (PERSINFO)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 37,
+        "nama": "Akhdan Irsyad Al",
+        "nim": "2200019221",
+        "jabatan": "Ketua",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 38,
+        "nama": "Wilia Winda Pratiwi",
+        "nim": "2200019224",
+        "jabatan": "Staff",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 39,
+        "nama": "David Arya Priambada",
+        "nim": "2200019017",
+        "jabatan": "Staff",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 40,
+        "nama": "Nirina Listiya Tisya",
+        "nim": "2300019033",
+        "jabatan": "Staff",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 41,
+        "nama": "Ridho Rizaldi",
+        "nim": "2300019031",
+        "jabatan": "Staff",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 42,
+        "nama": "Muhammad Arief Saputra",
+        "nim": "2300019127",
+        "jabatan": "Staff",
+        "departemen": "KEWIRAUSAHAAN (KWU)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 43,
+        "nama": "Fitroh Ersa Alfazri",
+        "nim": "2200019080",
+        "jabatan": "Ketua",
+        "departemen": "KEAGAMAAN",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 44,
+        "nama": "Ari Cahyo Setiawan",
+        "nim": "2200019043",
+        "jabatan": "Staff",
+        "departemen": "KEAGAMAAN",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 45,
+        "nama": "Zahra Fitriani Al-Azizah",
+        "nim": "2200019085",
+        "jabatan": "Staff",
+        "departemen": "KEAGAMAAN",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 46,
+        "nama": "Roland Fery Alvalentda",
+        "nim": "2300019103",
+        "jabatan": "Staff",
+        "departemen": "KEAGAMAAN",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 47,
+        "nama": "Choirul Sulistyo",
+        "nim": "2300019096",
+        "jabatan": "Staff",
+        "departemen": "KEAGAMAAN",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 48,
+        "nama": "Zulfikar Ahmad Tsalats",
+        "nim": "2200019070",
+        "jabatan": "Ketua",
+        "departemen": "ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 49,
+        "nama": "Dyah Regita Purbasari",
+        "nim": "2200019095",
+        "jabatan": "Staff",
+        "departemen": "ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 50,
+        "nama": "Lukman Aulia Rahman",
+        "nim": "2200019022",
+        "jabatan": "Staff",
+        "departemen": "ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2022
+      },
+      {
+        "id": 51,
+        "nama": "Aliv Zahier Prasetya Darma",
+        "nim": "2300019075",
+        "jabatan": "Staff",
+        "departemen": "ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      },
+      {
+        "id": 52,
+        "nama": "M. Aminullah",
+        "nim": "2300019082",
+        "jabatan": "Staff",
+        "departemen": "ILMU PENGETAHUAN DAN TEKNOLOGI (IPTEK)",
+        "foto": "",
+        "prodi": "Teknik Industri",
+        "angkatan": 2023
+      }
+    ]
+    
+    
+  

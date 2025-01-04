@@ -1,0 +1,372 @@
+[
+    {
+      "id": 1,
+      "nama": "Asfa Davi Akhsan",
+      "nim": "2200022050",
+      "jabatan": "Ketua Himpunan",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 2,
+      "nama": "Abid Raihan Abdu Rozaq",
+      "nim": "2200022027",
+      "jabatan": "Wakil Ketua Himpunan",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 3,
+      "nama": "Delta Leo Bagus Seto",
+      "nim": "2200022046",
+      "jabatan": "Sekretaris I",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 4,
+      "nama": "Akrimni Miftakhurrohmah",
+      "nim": "2300022016",
+      "jabatan": "Sekretaris II",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 5,
+      "nama": "Jeshal Channya Hijrain",
+      "nim": "2200022008",
+      "jabatan": "Bendahara I",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 6,
+      "nama": "Nayla Azzahra Azhwar",
+      "nim": "2300022014",
+      "jabatan": "Bendahara II",
+      "departemen": "PH",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 7,
+      "nama": "Luqman Ferdiyansyah",
+      "nim": "2200022002",
+      "jabatan": "Koordinator Departemen AKASTRAT",
+      "departemen": "AKASTRAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 8,
+      "nama": "Fajar Sodiq Setia Budi",
+      "nim": "2200022033",
+      "jabatan": "Staff Departemen AKASTRAT",
+      "departemen": "AKASTRAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 9,
+      "nama": "Siti Nurhayati",
+      "nim": "2300022015",
+      "jabatan": "Staff Departemen AKASTRAT",
+      "departemen": "AKASTRAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 10,
+      "nama": "Indra Kurniawan Supardi",
+      "nim": "2300022001",
+      "jabatan": "Staff Departemen AKASTRAT",
+      "departemen": "AKASTRAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 11,
+      "nama": "Yoga Handika Putro",
+      "nim": "2200022010",
+      "jabatan": "Koordinator Departemen IPTEK",
+      "departemen": "IPTEK",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 12,
+      "nama": "Qeisha Nur Alfiyyah",
+      "nim": "2300022017",
+      "jabatan": "Staff Departemen IPTEK",
+      "departemen": "IPTEK",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 13,
+      "nama": "Ady Samudra Kasan",
+      "nim": "2200022029",
+      "jabatan": "Staff Departemen IPTEK",
+      "departemen": "IPTEK",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 14,
+      "nama": "Faris Altius Putra",
+      "nim": "2300022012",
+      "jabatan": "Staff Departemen IPTEK",
+      "departemen": "IPTEK",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 15,
+      "nama": "Muhamad Ikhwan Nur Sidik",
+      "nim": "2344022010",
+      "jabatan": "Staff Departemen IPTEK",
+      "departemen": "IPTEK",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 16,
+      "nama": "Bey Bayu Pamungkas",
+      "nim": "2200022020",
+      "jabatan": "Koordinator Departemen JLM",
+      "departemen": "JLM",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 17,
+      "nama": "Aldis Atha Izhal Abdillah",
+      "nim": "2200022049",
+      "jabatan": "Staff Departemen JLM",
+      "departemen": "JLM",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 18,
+      "nama": "Agus Fauzi",
+      "nim": "2300022003",
+      "jabatan": "Staff Departemen JLM",
+      "departemen": "JLM",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 19,
+      "nama": "Galih Mahendera",
+      "nim": "2300022007",
+      "jabatan": "Staff Departemen JLM",
+      "departemen": "JLM",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 20,
+      "nama": "Rachmad Bachtiar",
+      "nim": "2200022001",
+      "jabatan": "Koordinator Departemen KADERISASI",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 21,
+      "nama": "Alfito Ilhami Erman",
+      "nim": "2300022023",
+      "jabatan": "Staff Departemen KADERISASI",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 22,
+      "nama": "Bahrul Ihsan Anshari",
+      "nim": "2344022028",
+      "jabatan": "Staff Departemen KADERISASI",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 23,
+      "nama": "Indra Fajar Riadi",
+      "nim": "2300022020",
+      "jabatan": "Staff Departemen KADERISASI",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 24,
+      "nama": "Muhamad Rafi Ali Alimran",
+      "nim": "2315022031",
+      "jabatan": "Staff Departemen KADERISASI",
+      "departemen": "KADERISASI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 25,
+      "nama": "Azfa Rahmawan",
+      "nim": "2200022006",
+      "jabatan": "Koordinator Departemen KOMINFO",
+      "departemen": "KOMINFO",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 26,
+      "nama": "Aisyah Amara Maulidina Khasanah",
+      "nim": "2300022036",
+      "jabatan": "Staff Departemen KOMINFO",
+      "departemen": "KOMINFO",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 27,
+      "nama": "Daffa Kautsar Primidianto",
+      "nim": "2300022025",
+      "jabatan": "Staff Departemen KOMINFO",
+      "departemen": "KOMINFO",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 28,
+      "nama": "Sahris Sidik",
+      "nim": "2200022015",
+      "jabatan": "Kepala Departemen KWU",
+      "departemen": "KWU",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 29,
+      "nama": "Muhammad Azhari Prima Nesta",
+      "nim": "2200022052",
+      "jabatan": "Staff Departemen KWU",
+      "departemen": "KWU",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 30,
+      "nama": "Rif”an Nur Muhammad ",
+      "nim": "2300022027",
+      "jabatan": "Staff Departemen KWU",
+      "departemen": "KWU",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 31,
+      "nama": "Rexy Vayvace Hutagalung",
+      "nim": "2215022045",
+      "jabatan": "Kepala Departemen MIKAT",
+      "departemen": "MIKAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 32,
+      "nama": "Hanura Andisa Putra",
+      "nim": "2200022024",
+      "jabatan": "Staff Departemen MIKAT",
+      "departemen": "MIKAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 33,
+      "nama": "Welshananta Ramadhan",
+      "nim": "2300022004",
+      "jabatan": "Staff Departemen MIKAT",
+      "departemen": "MIKAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 34,
+      "nama": "Assyaidin Reksta Stiawan",
+      "nim": "2300022013",
+      "jabatan": "Staff Departemen MIKAT",
+      "departemen": "MIKAT",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 35,
+      "nama": "Dimas Ilham Fauzi Ibrahim",
+      "nim": "2200022007",
+      "jabatan": "Kepala Departemen SAI",
+      "departemen": "SAI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2022"
+    },
+    {
+      "id": 36,
+      "nama": "Muhamad Alfian",
+      "nim": "2300022019",
+      "jabatan": "Staff Departemen SAI",
+      "departemen": "SAI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    },
+    {
+      "id": 37,
+      "nama": "Khusni Mubarok",
+      "nim": "2300022021",
+      "jabatan": "Staff Departemen SAI",
+      "departemen": "SAI",
+      "foto": "",
+      "prodi": "Teknik Elektro",
+      "angkatan": "Angkatan 2023"
+    }
+]

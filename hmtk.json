@@ -1,0 +1,383 @@
+[
+    {
+      "id": 1,
+      "nama": "Zian Priski Utama",
+      "nim" : "2200020034",
+      "jabatan": "KAHIM",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 2,
+      "nama": "Muhamad Hikmal Firdausya",
+      "nim" : "2200020069",
+      "jabatan": "WAKAHIM",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 3,
+      "nama": "Maya Laffayza Daeng Masila",
+      "nim" : "2200020035",
+      "jabatan": "Sekretaris 1",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 3,
+      "nama": "Poppy Desta Emillia",
+      "nim" : "2300020023",
+      "jabatan": "Sekretaris 2",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 4,
+      "nama": "Renita Ayu Fadhila",
+      "nim" : "2200020057",
+      "jabatan": "Bendahara 1",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 5,
+      "nama": "Sherlina Ari Setyowati",
+      "nim" : "2300020021",
+      "jabatan": "Bendahara 2",
+      "departemen" : "PH",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 6,
+      "nama": "Khairunnisa",
+      "nim" : "2200020072",
+      "jabatan": "Kepala Departemen Kemitraan",
+      "departemen" : "Kemitraan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 7,
+      "nama": "Muhammad Hafizh Anshori",
+      "nim" : "2300020019",
+      "jabatan": "Staff Kemtriaan",
+      "departemen" : "Kemitraan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 8,
+      "nama": "Halimathusyakhdyah",
+      "nim" : "2338020034",
+      "jabatan": "Staff Kemtriaan",
+      "departemen" : "Kemitraan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 9,
+      "nama": "Naeera Zulfa Lazuardi",
+      "nim" : "2338020038",
+      "jabatan": "Staff Kemtriaan",
+      "departemen" : "Kemitraan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 10,
+      "nama": "Fadli Ananda",
+      "nim" : "2200020050",
+      "jabatan": "Kepala Departemen Kominfo",
+      "departemen" : "Kemitraan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 11,
+      "nama": "Suci Ramadhani",
+      "nim" : "2300020007",
+      "jabatan": "Staff Kominfo",
+      "departemen" : "Kominfo",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 12,
+      "nama": "Ananda Rizky Al Pariz Hidayat",
+      "nim" : "2300020025",
+      "jabatan": "Staff Kominfo",
+      "departemen" : "Kominfo",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 13,
+      "nama": "Nazwa Lazinu",
+      "nim" : "2300020028",
+      "jabatan": "Staff Kominfo",
+      "departemen" : "Kominfo",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 14,
+      "nama": "Melisa Tri Anggiana Damanik",
+      "nim" : "2200020077",
+      "jabatan": "Kepala Departemen Kastrad",
+      "departemen" : "Kastrad",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 15,
+      "nama": "Riham Salsabila Siswoyo",
+      "nim" : "2300020048",
+      "jabatan": "Staff Kastrad",
+      "departemen" : "Kastrad",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 16,
+      "nama": "Mufit",
+      "nim" : "2300020015",
+      "jabatan": "Staff Kastrad",
+      "departemen" : "Kastrad",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 17,
+      "nama": "Rahma Tirta Fauzia",
+      "nim" : "2300020012",
+      "jabatan": "Staff Kastrad",
+      "departemen" : "Kastrad",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 18,
+      "nama": "Ahmad Ray Khawarizmi",
+      "nim" : "2200020026",
+      "jabatan": "Kepala Departemen IPTEK",
+      "departemen" : "IPTEK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 19,
+      "nama": "Arya Mukti WIbowo",
+      "nim" : "2200020051",
+      "jabatan": "Staff IPTEK",
+      "departemen" : "IPTEK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 20,
+      "nama": "Muhammad Sufyan",
+      "nim" : "2300020039",
+      "jabatan": "Staff IPTEK",
+      "departemen" : "IPTEK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 21,
+      "nama": "Alfitri Natalia",
+      "nim" : "2300020008",
+      "jabatan": "Staff IPTEK",
+      "departemen" : "IPTEK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 22,
+      "nama": "Nurul Hidayah",
+      "nim" : "2200020020",
+      "jabatan": "Kepala Departemen Kewirausahaan",
+      "departemen" : "Kewirausahaan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 23,
+      "nama": "Bunga Yustisia Dani",
+      "nim" : "2200020033",
+      "jabatan": "Staff Kewirausahaan",
+      "departemen" : "Kewirausahaan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 24,
+      "nama": "Wahyu Tri Pambudi",
+      "nim" : "2300020002",
+      "jabatan": "Staff Kewirausahaan",
+      "departemen" : "Kewirausahaan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 25,
+      "nama": "Nabila Rahmawati",
+      "nim" : "2300020026",
+      "jabatan": "Staff Kewirausahaan",
+      "departemen" : "Kewirausahaan",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 26,
+      "nama": "Ima Khoirunnisa",
+      "nim" : "2200020056",
+      "jabatan": "Kepala Departemen MIKAT",
+      "departemen" : "MIKAT",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 27,
+      "nama": "Nafela",
+      "nim" : "2300020027",
+      "jabatan": "Staff MIKAT",
+      "departemen" : "MIKAT",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 28,
+      "nama": "Anwar",
+      "nim" : "2300020043",
+      "jabatan": "Staff MIKAT",
+      "departemen" : "MIKAT",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 29,
+      "nama": "Wahyu Candra Abdillah",
+      "nim" : "2344020042",
+      "jabatan": "Staff MIKAT",
+      "departemen" : "MIKAT",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 30,
+      "nama": "Rafli Ramadhan",
+      "nim" : "2200020013",
+      "jabatan": "Kepala Departemen PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 31,
+      "nama": "Tahta S`kar Praba",
+      "nim" : "2200020078",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 32,
+      "nama": "Mia Anggita Sevana",
+      "nim" : "2238020040",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2022"
+    },
+    {
+      "id": 33,
+      "nama": "Tania Tri Putri Agustin",
+      "nim" : "2300020035",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 34,
+      "nama": "Rido Abadi",
+      "nim" : "2300020036",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 35,
+      "nama": "Nadin Okta Maema",
+      "nim" : "2311020010",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 36,
+      "nama": "Edis Adelya Paira",
+      "nim" : "2300020031",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    },
+    {
+      "id": 37,
+      "nama": "Tiara Eka Supriyanti",
+      "nim" : "2200020024",
+      "jabatan": "Staff PSDMK",
+      "departemen" : "PSDMK",
+      "foto": "",
+      "prodi" : "Teknik Kimia",
+      "angkatan" : "Angkatan 2023"
+    }
+  ]
+  

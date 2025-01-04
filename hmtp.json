@@ -1,0 +1,512 @@
+[
+  {
+    "id": 1,
+    "nama": "Ananda Prastika Anggara",
+    "nim": "2200033078",
+    "jabatan": "Ketua",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 2,
+    "nama": "Dhamar Faturrochman",
+    "nim": "2200033018",
+    "jabatan": "Wakil Ketua",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 3,
+    "nama": "Puspa Salsabila",
+    "nim": "2200033046",
+    "jabatan": "Sekretaris 1",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 4,
+    "nama": "Nadia Nur Azizah Subagio",
+    "nim": "2300033033",
+    "jabatan": "Sekretaris 2",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 5,
+    "nama": "Laylli Putri Junianti",
+    "nim": "2200033014",
+    "jabatan": "Bendahara 1",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 6,
+    "nama": "Ananda Ayuk Sudarinto",
+    "nim": "2300033057",
+    "jabatan": "Bendahara 2",
+    "departemen": "",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 7,
+    "nama": "Muhammad Raja",
+    "nim": "2215033099",
+    "jabatan": "Koordinator",
+    "departemen": "Advokasi Kajian Strategis",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 8,
+    "nama": "Nanda Fikhi Nurhidayah",
+    "nim": "2300033032",
+    "jabatan": "Staff",
+    "departemen": "Advokasi Kajian Strategis",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 9,
+    "nama": "Evan Dicka JB",
+    "nim": "2300033021",
+    "jabatan": "Staff",
+    "departemen": "Advokasi Kajian Strategis",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 10,
+    "nama": "Iqbal Prasetyo",
+    "nim": "2300033031",
+    "jabatan": "Staff",
+    "departemen": "Advokasi Kajian Strategis",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 11,
+    "nama": "Rida Kalina",
+    "nim": "2300033024",
+    "jabatan": "Staff",
+    "departemen": "Advokasi Kajian Strategis",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 12,
+    "nama": "Chika Amelia Pratama",
+    "nim": "2200033043",
+    "jabatan": "Koordinator",
+    "departemen": "Jaringan Lembaga Mahasiswa",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 13,
+    "nama": "Rizqi Mutia Ananda",
+    "nim": "2300033038",
+    "jabatan": "Staff",
+    "departemen": "Jaringan Lembaga Mahasiswa",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 14,
+    "nama": "Ainin Nuzha Izzatin Fauzia",
+    "nim": "2311033063",
+    "jabatan": "Staff",
+    "departemen": "Jaringan Lembaga Mahasiswa",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 15,
+    "nama": "Kayla Naura Achfa",
+    "nim": "2300033009",
+    "jabatan": "Staff",
+    "departemen": "Jaringan Lembaga Mahasiswa",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 16,
+    "nama": "Erinta Selvianti Oktaviana",
+    "nim": "2300033022",
+    "jabatan": "Staff",
+    "departemen": "Jaringan Lembaga Mahasiswa",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 17,
+    "nama": "Arya Saksena",
+    "nim": "2200033067",
+    "jabatan": "Koordinator",
+    "departemen": "Kaderisasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 18,
+    "nama": "Ahmad Anhar Azhari",
+    "nim": "2300033018",
+    "jabatan": "Staff",
+    "departemen": "Kaderisasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 19,
+    "nama": "Amalia Hidayatul Husna",
+    "nim": "2300033025",
+    "jabatan": "Staff",
+    "departemen": "Kaderisasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 20,
+    "nama": "Alvin Masruri",
+    "nim": "2200033074",
+    "jabatan": "Staff",
+    "departemen": "Kaderisasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 21,
+    "nama": "Dinda Kirani",
+    "nim": "2300033040",
+    "jabatan": "Staff",
+    "departemen": "Kaderisasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 22,
+    "nama": "Ica Talitha",
+    "nim": "2200033023",
+    "jabatan": "Koordinator",
+    "departemen": "Keilmuan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 23,
+    "nama": "Astiani Nurallista",
+    "nim": "2200033090",
+    "jabatan": "Staff",
+    "departemen": "Keilmuan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 24,
+    "nama": "Andi Putri Desi Susanti",
+    "nim": "2338033062",
+    "jabatan": "Staff",
+    "departemen": "Keilmuan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 25,
+    "nama": "Elisa Angraini Wulan Sari",
+    "nim": "2300033030",
+    "jabatan": "Staff",
+    "departemen": "Keilmuan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 26,
+    "nama": "Bellinda Naura Ghoitsi Annajwa",
+    "nim": "2300033013",
+    "jabatan": "Staff",
+    "departemen": "Keilmuan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 27,
+    "nama": "Gilang Tri Pambudi",
+    "nim": "2200033070",
+    "jabatan": "Koordinator",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 28,
+    "nama": "Nuramitha Rizka",
+    "nim": "2200033049",
+    "jabatan": "Staff",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 29,
+    "nama": "Layla Fitria",
+    "nim": "2200033010",
+    "jabatan": "Staff",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 30,
+    "nama": "Nabila Andini",
+    "nim": "2200033005",
+    "jabatan": "Staff",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 31,
+    "nama": "Refal Mustafa Kamal",
+    "nim": "2200033036",
+    "jabatan": "Staff",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 32,
+    "nama": "Amalia Nesya Raikhana",
+    "nim": "2200033016",
+    "jabatan": "Staff",
+    "departemen": "Kewirausahaan",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 33,
+    "nama": "Soni Shafrilham Yusuf",
+    "nim": "2200033019",
+    "jabatan": "Koordinator",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 34,
+    "nama": "Muhammad Fajar",
+    "nim": "2300033043",
+    "jabatan": "Staff",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 35,
+    "nama": "Keke Ruri Lumintang",
+    "nim": "2300033042",
+    "jabatan": "Staff",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 36,
+    "nama": "Luky Aulia Fitriani L",
+    "nim": "2300033029",
+    "jabatan": "Staff",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 37,
+    "nama": "Rona Aurora Pradatha",
+    "nim": "2300033019",
+    "jabatan": "Staff",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 38,
+    "nama": "Ashfia Amali Zamil",
+    "nim": "2300033060",
+    "jabatan": "Staff",
+    "departemen": "Komunikasi dan Informasi",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 39,
+    "nama": "Razaan Arrayandika Panggabean",
+    "nim": "2200033021",
+    "jabatan": "Koordinator",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 40,
+    "nama": "Ausy Irhan Finandri",
+    "nim": "2300033050",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 41,
+    "nama": "Salwa Alya Fadilah",
+    "nim": "2300033051",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 42,
+    "nama": "Muhammad Ariffudin",
+    "nim": "2300033046",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 43,
+    "nama": "Syafiq Atha",
+    "nim": "2300033058",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 44,
+    "nama": "Aldino Putra Sejati",
+    "nim": "2300033044",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 45,
+    "nama": "Dazza Fitra Novaldi",
+    "nim": "2300033054",
+    "jabatan": "Staff",
+    "departemen": "Minat dan Bakat",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 46,
+    "nama": "Abdullah Hakim",
+    "nim": "2200033032",
+    "jabatan": "Koordinator",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 47,
+    "nama": "Ilda Dian Nur Fathanah",
+    "nim": "2200033026",
+    "jabatan": "Staff",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2022
+  },
+  {
+    "id": 48,
+    "nama": "Dyanisa Rizky Nur Fauziah",
+    "nim": "2300033068",
+    "jabatan": "Staff",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 49,
+    "nama": "Khoirunnisa",
+    "nim": "2300033037",
+    "jabatan": "Staff",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 50,
+    "nama": "Rahmadi Dwi Setiawan",
+    "nim": "2300033006",
+    "jabatan": "Staff",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  },
+  {
+    "id": 51,
+    "nama": "Fadhila Zahra Eka Nurafifah",
+    "nim": "2300033003",
+    "jabatan": "Staff",
+    "departemen": "Sosial Agama Islam",
+    "foto": "",
+    "prodi": "Teknologi Pangan",
+    "angkatan": 2023
+  }
+]
