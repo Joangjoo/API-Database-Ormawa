@@ -5,7 +5,7 @@
       "nim" : "2200018145",
       "jabatan": "KAHIM",
       "departemen" : "PH",
-      "foto": "",
+      "foto": "../public/assets/hmif/om.png",
       "prodi" : "Informatika",
       "angkatan" : "Angkatan 2022"
     },
