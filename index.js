@@ -18,7 +18,7 @@ app.get("/Bem2",(req , res) => {
 })
 
 app.get("/hmif",(req , res) => {
-    return res.status(200).send(bem2)
+    return res.status(200).send(hmif)
     
 })
 
