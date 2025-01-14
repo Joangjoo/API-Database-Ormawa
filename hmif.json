@@ -15,7 +15,7 @@
       "nim" : "2200018097",
       "jabatan": "WAKAHIM",
       "departemen" : "PH",
-      "foto": "",
+      "foto": "../public/assets/hmif/sulton.png",
       "prodi" : "Informatika",
       "angkatan" : "Angkatan 2022"
     },
